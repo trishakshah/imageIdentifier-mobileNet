@@ -1,0 +1,73 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color:#F5DBDA;
+}
+
+.header_div{
+    background-color: white;
+    color: maroon;
+    text-shadow: 7px 10px 40px maroon;
+}
+
+.header_div img{
+    width: 100px;
+    margin-left: 50px;
+}
+
+.viewLabel{
+    font-weight: bolder;
+    font-size: large;
+    background-color: white;
+    padding: 10px;
+    width: 100%;
+}
+
+.buttons{
+    background-color: maroon;
+    color: white;
+    font-weight:bolder;
+    margin-top: 10px;
+}
+
+.main_div{
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 40%;
+    background-color:#F5DBDA;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 25px white;
+}
+
+.innerDiv{
+    border: 2px solid white;
+    width:400px;
+    height: 300px;
+}
+
+.resultDiv{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.resultDiv img{
+    width: 70;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: maroon;
+    background-color: white;
+}
+
+.webcamDiv{
+    margin-left: 150px;
+}
